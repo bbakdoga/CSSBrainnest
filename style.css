@@ -20,7 +20,6 @@ button{
 a{
     color: #E5E7EB;
 }
-
 #header_logo{
    width: 100px;
    height: 100px; 
@@ -47,8 +46,6 @@ a{
     font-size: 18px;
     color: #E5E7EB;
     font-family: 'Roboto', sans-serif;
-
-
 }
 .nav-list li {
     width: max-content;
@@ -77,8 +74,6 @@ a{
     width: 500px;
     height: 200px;
 }
-
-
 .section1{
     background-color: white;
     height: 400px;
@@ -91,7 +86,6 @@ a{
     font-weight: lighter;
     margin-bottom: 5px;
 }
-
 .sec-pic{
     height: 100px;
     width: 100px;
@@ -103,10 +97,8 @@ a{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-
 }
-.sec1-des{
-    
+.sec1-des{   
     max-width: 145px;
     margin: 0px 25px;
 }
@@ -119,8 +111,7 @@ a{
     flex-wrap: wrap;
     justify-content: center;
 }
-blockquote{
-    
+blockquote{   
     max-width: 500px;
     font-size: 36px;
     font-weight: light;
@@ -133,7 +124,6 @@ figcaption{
     max-width: 500px;
     float: right;
 }
-
 .section3{
     background-color: white;
     height: 400px;
@@ -142,7 +132,6 @@ figcaption{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-
 }
 .sec3-parent{
     background-color:#3882F6;
@@ -153,9 +142,7 @@ figcaption{
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-
 }
-
 .sec3-child{
     max-width: 400px;
 }
@@ -173,22 +160,17 @@ figcaption{
 footer{
     background-color: #1F2937;
     height: 100px;
-
 }
 .footer-parent{
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 #footer-p{
-   
     font-family: 'Roboto', sans-serif;
     color: #E5E7EB;
     font-size: 18px;
     margin-top: 30px;
     margin-bottom: 30px;
     max-height: 20px;
-
-
 }
