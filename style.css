@@ -65,7 +65,6 @@ a{
 .hero-div{
     display: flex;
     justify-content: space-between;;
-    flex-wrap: wrap;
 }
 .hero-items{
     margin: 10px auto;
@@ -95,7 +94,6 @@ a{
 }
 .sec1-child{
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
 }
 .sec1-des{   
@@ -108,7 +106,6 @@ a{
 }
 .sec2-parent{
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
 }
 blockquote{   
@@ -130,7 +127,6 @@ figcaption{
 }
 .sec3-grand{
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
 }
 .sec3-parent{
@@ -139,7 +135,6 @@ figcaption{
     margin-top: 100px;
     width: 900px;
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
 }
